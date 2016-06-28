@@ -2087,7 +2087,7 @@
 
 	#header {
 		position: relative;
-		background-image: url("images1/landscape1.jpg");
+		background-image: url("images/landscape1.jpg");
 		background-size: cover;
 		background-position: center center;
 		background-attachment: fixed;
